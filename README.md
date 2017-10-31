@@ -6,6 +6,7 @@ This desktop application allows users to play the classic board game chess in a 
 ### Dependencies:
   Tkinter (Python 2.7)
     Installation(Linux): *apt-get install python-tk*
+    
   Python Imaging library (Python 2.7)
     Installation(Linux): using pip package manager for python : *pip install PIL*
     
