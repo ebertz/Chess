@@ -306,6 +306,7 @@ class Space():
         
     
 mygame = Game()
+mygame.root.mainloop()
 import time
 start = time.time()
 for piece in pieces:
